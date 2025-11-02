@@ -1,4 +1,6 @@
 # EDGE-DETECTION
+# Name:P.Senthil Arunachalam
+# Reg No:212224240147
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
